@@ -18,7 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KuroganeAs&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroganeAs&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KuroganeAs&theme=tokyonight&hide_border=true" alt="GitHub Streaks" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=KuroganeAs&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Total Contributions" height="180"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api?KuroganeAs=your-github-username&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Total Contributions"/>
 </div>
 
 ---
