@@ -15,12 +15,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/KuroganeAs">
     <img src="https://github-readme-stats.vercel.app/api?username=KuroganeAs&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-  </a>
-  <a href="https://github.com/KuroganeAs">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroganeAs&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-  </a>
 </p>
 
 ---
