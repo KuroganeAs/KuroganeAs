@@ -8,7 +8,7 @@
 - 🌱 Currently learning **Cloud Services, Operating System, Compilation Techniques, Mobile Programming, & Software Development Operations In Cloud Environments**  
 - 💻 Interested in **UI/UX, Artificial Intelligance, and Machine Learning**  
 - 📊 Love solving problems with **Frontend, Backend, and Fullstack Development**  
-- 📫 Reach me at: [rajaafarel@gmail.com](mailto:kevinmlggamer95@gmail.com)
+- 📫 Reach me at: [kevinmlggamer95@gmail.com](mailto:kevinmlggamer95@gmail.com)
 
 ---
 
