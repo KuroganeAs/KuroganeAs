@@ -17,9 +17,11 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=KuroganeAs&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuroganeAs&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+    
     <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight&hide_border=true" alt="GitHub Streaks"/>
+    
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Total Contributions"/>
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+
 </div>
 </p>
 
